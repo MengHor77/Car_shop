@@ -1,0 +1,34 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.cache
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider IDE
+.idea/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Windows thumbnail cache
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
